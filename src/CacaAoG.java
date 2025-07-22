@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class Principal {
+public class CacaAoG {
     public static void limpaTerminal(){
         String os = System.getProperty("os.name");
         try{
